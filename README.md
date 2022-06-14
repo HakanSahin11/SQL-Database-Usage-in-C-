@@ -1,4 +1,4 @@
-# SQL-Database-Usage-in-C-
+# SQL Database Usage in C#
 
 A simple project made in C# connected to a SQL Database with the use of ADO.net entity model. This was my first usage of ADO.net.
 The application retrieves all the users and movies from the database (read).
