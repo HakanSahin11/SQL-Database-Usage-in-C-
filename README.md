@@ -2,7 +2,7 @@
 
 A simple project made in C# connected to a SQL Database with the use of ADO.net entity model. This was my first usage of ADO.net.
 The application retrieves all the users and movies from the database (read).
-The main objective of the project was to focus and train on the backend part.
+The main objective of the project was to focus and train on the backend part, while displaying and search specific input throughout the lists.
 The database itself is made to working like IMDB for movie search / ratings, but where you can also search for spefic users.
 
 The app itself works like an "administration" platform, where you're able to rewrite user / movie information into the database.
